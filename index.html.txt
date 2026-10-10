@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>Datenschutzerklärung – Jump Game</title>
+</head>
+<body>
+<h1>Datenschutzerklärung für „Jump Game“</h1>
+<p><strong>Stand: 10. Oktober 2026</strong></p>
+
+<p>Diese Datenschutzerklärung informiert darüber, wie die App <strong>Jump Game</strong> personenbezogene Daten verarbeitet.</p>
+
+<h2>1. Verantwortlicher</h2>
+<p>Ilja<br>Deutschland</p>
+
+<h2>2. Erhebung und Verarbeitung personenbezogener Daten</h2>
+<p>Die App erhebt, speichert oder verarbeitet keinerlei personenbezogene Daten.</p>
+
+<ul>
+<li>keine Namen</li>
+<li>keine E‑Mail‑Adressen</li>
+<li>keine Telefonnummern</li>
+<li>keine Standortdaten</li>
+<li>keine Geräteinformationen</li>
+<li>keine Tracking‑Tools</li>
+<li>keine Analyse‑Dienste</li>
+<li>keine Werbung</li>
+</ul>
+
+<h2>3. Berechtigungen</h2>
+<p>Die App verwendet keine Android‑Berechtigungen, die Zugriff auf personenbezogene oder sensible Daten ermöglichen.</p>
+
+<h2>4. Weitergabe von Daten</h2>
+<p>Da keine Daten erhoben werden, erfolgt keine Weitergabe an Dritte.</p>
+
+<h2>5. Speicherung von Daten</h2>
+<p>Es werden keine Daten gespeichert.</p>
+
+<h2>6. Kinder</h2>
+<p>Die App verarbeitet keine Daten von Kindern.</p>
+
+<h2>7. Änderungen</h2>
+<p>Diese Datenschutzerklärung kann aktualisiert werden.</p>
+
+<h2>8. Kontakt</h2>
+<p>Ilja<br>Deutschland</p>
+
+</body>
+</html>
